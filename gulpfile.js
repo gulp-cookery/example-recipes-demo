@@ -6,7 +6,7 @@ var chef = require('gulp-chef');
 var consolidate = require('gulp-consolidate').bind(null, 'nunjucks');
 
 var configs = {
-	$description: 'This is to demo what gulp-chef can achieve, not encourage you write configuration this way.',
+	'#description': 'This is to demo what gulp-chef can achieve, not encourage you write configuration this way.',
 	src: 'src/',
 	dest: 'dist/',
 	'.gulp-cheagsheet': {
