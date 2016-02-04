@@ -9,7 +9,7 @@ var configs = {
 	'#description': 'This is to demo what gulp-chef can achieve, not encourage you write configuration this way.',
 	src: 'src/',
 	dest: 'dist/',
-	'.gulp-cheagsheet': {
+	'.gulp-cheatsheet': {
 		description: 'Recipes from gulp cheatsheet: https://github.com/osscafe/gulp-cheatsheet.',
 		'single-dest-and-watch': {
 			src: 'js/',
